@@ -45,7 +45,7 @@ MonoBehaviour:
     "\u9876\u680F\u56FE\u7247": {fileID: 0}
     "\u5E95\u680F\u6837\u5F0F": 0
     "\u5E95\u680F\u56FE\u7247": {fileID: 0}
-    "\u5B57\u4F53": {fileID: 0}
+    "\u5B57\u4F53": {fileID: 12800000, guid: 31782341a5b067040b14faa3b2c428fc, type: 3}
     "\u6587\u5B57\u5927\u5C0F": 13
     "\u5B57\u4F53\u6837\u5F0F": 0
     "\u6587\u672C\u989C\u8272": {r: 0.9, g: 0.9, b: 0.9, a: 1}
